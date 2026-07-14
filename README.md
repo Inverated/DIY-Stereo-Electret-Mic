@@ -19,3 +19,10 @@ Note
 - R15 resistor at the output should be increased / tied to a dual potentiometer to adjust the volume. Current 1k value have too much noise. \
 (Not an electrical engineer, probably can adjust an RC filter somewhere to filter out the noise before the output. IDK)
 - Some capacitor value from the original schematic was changed not because it is better but cause its the closest value i have lying around.
+- Used a battery instead of powering via usb as there isn't an ADC module that comes with line in, all comes with mic only, event if the chip supports line in.
+
+Future Modification
+- 
+- Use a dual pot to control volume
+- Use RCA instead of 3.5mm jack as ADC boards with RCA is more common
+- Power from usb port instead of only from the battery
