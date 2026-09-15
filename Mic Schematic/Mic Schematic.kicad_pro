@@ -437,13 +437,17 @@
         "uuid": "e33efe1d-4365-497b-a93e-cba95a0fd265"
       }
     ],
-    "used_designators": "#PWR8-9,C7,C12",
+    "used_designators": "#PWR10-12,#PWR14-20,C4,C8-10,C13-17,R8-12,R14,R16-17,R19-20,Left_3-4,Left_Output1,RV2,U3",
     "variants": []
   },
   "sheets": [
     [
       "e33efe1d-4365-497b-a93e-cba95a0fd265",
       "Mic Schematic"
+    ],
+    [
+      "8295bd1f-30c8-4c63-ad61-fc0094666559",
+      "mini shit"
     ]
   ],
   "text_variables": {},
