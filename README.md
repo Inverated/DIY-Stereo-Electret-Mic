@@ -15,7 +15,7 @@ Inspired by MubarakNative [STUDIO-QUALITY ELECTRET MIC PREAMP BUILD](https://mub
 | :---: | :---: |
 | ![Exposed circuit](/images/old_1.jpg) | ![Enclosed](/images/old_2.jpg) |
 
-Schematics can be found in the [schematics folder](/Old%20Design%20(Dual-stereo)/Mic%20Schematic)
+Old schematics can be found in the [schematics folder](/Old%20Design%20(Dual-stereo)/Mic%20Schematic)
 
 # Version 2
 ## Modifications made from Version 1    
@@ -34,7 +34,8 @@ Schematics can be found in the [schematics folder](/Old%20Design%20(Dual-stereo)
 | ![Front](/images/new_1.jpg) | ![Back](/images/new_2.jpg) |
 | ![Front_powered](/images/new_3.jpg) | ![Back_powered](/images/new_4.jpg) |
 
-Schematics can be found [here](/Schematic.png).
+## Schematics
+[here](/Schematic.png).
 
 ## Parts list
 
